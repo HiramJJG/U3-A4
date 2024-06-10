@@ -1,24 +1,11 @@
-# hello_world
+A4 TRABAJO REALIZADO
 
-A new Flutter project created with https://flutlab.io
 
-## Getting Started
+https://github.com/PaolaIbarraOrdaz/loginCbtis128.git
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://github.com/HiramJJG/U3-A4/assets/144726165/7e91fd0a-4e3c-493f-81ae-881febdaa03e)
+![image](https://github.com/HiramJJG/U3-A4/assets/144726165/f51058f4-fdbd-4545-9c89-90650b59e0db)
+![image](https://github.com/HiramJJG/U3-A4/assets/144726165/b2311e32-591d-4f7f-a072-0e90cf5db7ef)
 
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
 
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-## Getting Started: FlutLab - Flutter Online IDE
-
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Discover a marketplace of ready-to-use Flutter projects https://flutlab.io/widgetbay
-- Join the discussion and conversation on https://flutlab.io/residents
-
-If you have some questions regarding FlutLab, you can ask on https://flutlab.io/faq
